@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//log/sorm.log=UTF-8
+encoding//resources/log4j.properties=UTF-8
+encoding//src/com/mingyang/sorm/bean/ColumnInfo.java=UTF-8
+encoding//src/com/mingyang/sorm/bean/TableInfo.java=UTF-8
+encoding//src/com/mingyang/sorm/core/DBManager.java=UTF-8
+encoding//src/com/mingyang/sorm/core/Query.java=UTF-8
+encoding//src/com/mingyang/sorm/core/QueryFactory.java=UTF-8
+encoding//src/com/mingyang/sorm/core/TableContext.java=UTF-8
+encoding//src/com/mingyang/sorm/core/TypeConvertor.java=UTF-8
+encoding//src/com/mingyang/sorm/utils/JDBCUtils.java=UTF-8
+encoding//src/com/mingyang/sorm/utils/JavaFileUtils.java=UTF-8
+encoding//src/com/mingyang/sorm/utils/ReflectUtils.java=UTF-8
+encoding//src/com/mingyang/sorm/utils/StringUtils.java=UTF-8
+encoding/<project>=UTF-8
